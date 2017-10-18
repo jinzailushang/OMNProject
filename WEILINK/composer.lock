@@ -1,0 +1,55 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "42fe555630a320b4b70c6a049a195151",
+    "content-hash": "260654b149c1d59f2e6b508d5c8b4288",
+    "packages": [
+        {
+            "name": "cszchen/citizenid",
+            "version": "v1.0.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/cartmanchen/CitizenID.git",
+                "reference": "9cb965b7ba07a258f806f61ce046798700ce7383"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/cartmanchen/CitizenID/zipball/9cb965b7ba07a258f806f61ce046798700ce7383",
+                "reference": "9cb965b7ba07a258f806f61ce046798700ce7383",
+                "shasum": ""
+            },
+            "require-dev": {
+                "phpunit/phpunit": "4.6.*"
+            },
+            "type": "extension",
+            "autoload": {
+                "psr-4": {
+                    "cszchen\\citizenid\\": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "cszchen",
+                    "email": "csz@soyhw.com"
+                }
+            ],
+            "description": "中国居民身份证号码信息验证",
+            "time": "2016-05-31 02:55:44"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

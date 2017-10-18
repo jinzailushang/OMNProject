@@ -1,0 +1,1513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list id="4f3a586f-e395-4341-b386-989b05b898e3" name="Default" comment="添加订单" />
+    <list id="76220690-4d3f-4eb3-9819-bd02270ac9f1" name="New changeList" comment="New changeList" />
+    <list default="true" id="ebfa275b-bc83-4348-8648-318e0ca86719" name="Newchangelist" comment="* 找回密码页面样式" />
+    <list id="2b93891f-f487-421b-bba4-c7ed5263db88" name="nis" comment="" />
+    <list id="9f7ded4d-89aa-46d2-9c76-8f7cb6f99628" name="New changelist" comment="" />
+    <list id="cb9cc01e-e687-46ed-8d39-5c3e3ae4d21e" name="Nw changelist" comment="" />
+    <list id="2154af2b-9db1-479c-8c78-6f51688931c0" name="Newhangelist" comment="" />
+    <list id="eaf17950-ca06-481e-8ca9-a736e1f0d22c" name="Nechangelist" comment="" />
+    <list id="0b908dd1-e41b-4275-a869-d432b43d511a" name="Nwchangelist" comment="" />
+    <list id="3350f729-19ec-45e5-a09d-fc18869c2162" name="New chgelist" comment="" />
+    <ignored path="welink.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="welink" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="aa.log" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/site/aa.log">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="addOrder.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/site/templates/default/css/addOrder.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2562">
+              <caret line="122" column="1" selection-start-line="122" selection-start-column="1" selection-end-line="122" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="form.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/site/templates/default/tpl/trans_house/form.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5229">
+              <caret line="249" column="30" selection-start-line="249" selection-start-column="30" selection-end-line="249" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/site/templates/default/tpl/guide/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index_layout.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/site/templates/default/layout/index_layout.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret line="122" column="22" selection-start-line="122" selection-start-column="22" selection-end-line="122" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="menu.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/site/include/menu.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="819">
+              <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style_new.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/site/templates/default/css/style_new.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3297">
+              <caret line="157" column="43" selection-start-line="157" selection-start-column="43" selection-end-line="157" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tp_bak.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/site/templates/default/tpl/order/tp_bak.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8925">
+              <caret line="425" column="95" selection-start-line="425" selection-start-column="95" selection-end-line="425" selection-end-column="95" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="trans_house.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/site/control/trans_house.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3465">
+              <caret line="165" column="51" selection-start-line="165" selection-start-column="51" selection-end-line="165" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="transOrders.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/control/transOrders.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="李奕锦 &lt;liyijin@xianlife.com&gt;" />
+        <option value="&lt;李奕锦@xianlife.com&gt;" />
+      </list>
+    </option>
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="WARN_ABOUT_CRLF" value="false" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/site/control/guide.php" />
+        <option value="$PROJECT_DIR$/site/templates/default/css/login.css" />
+        <option value="$PROJECT_DIR$/site/templates/default/tpl/order/form_back.php" />
+        <option value="$USER_HOME$/Desktop/select2/index.html" />
+        <option value="$USER_HOME$/Desktop/select2测试/index.html" />
+        <option value="$PROJECT_DIR$/site/templates/default/js/select2/select2.min.js" />
+        <option value="$PROJECT_DIR$/site/templates/default/tpl/welcome.php" />
+        <option value="$PROJECT_DIR$/data/config/static.ini.php" />
+        <option value="$PROJECT_DIR$/site/templates/default/js/Popup/popup.js" />
+        <option value="$PROJECT_DIR$/site/templates/default/tpl/shipment_code/index.php" />
+        <option value="$PROJECT_DIR$/site/control/goods.php" />
+        <option value="$PROJECT_DIR$/site/templates/default/js/select2/select2.min.css" />
+        <option value="$PROJECT_DIR$/site/templates/default/js/order/order.js" />
+        <option value="$PROJECT_DIR$/site/control/login.php" />
+        <option value="$PROJECT_DIR$/site/templates/default/tpl/order/detail.php" />
+        <option value="$PROJECT_DIR$/site/templates/default/tpl/trans_house/index.php" />
+        <option value="$PROJECT_DIR$/site/templates/default/tpl/user/id_card.php" />
+        <option value="$PROJECT_DIR$/site/templates/default/tpl/goods/index.php" />
+        <option value="$PROJECT_DIR$/site/templates/default/tpl/consignee/index.php" />
+        <option value="$PROJECT_DIR$/site/templates/default/tpl/order/load_card.php" />
+        <option value="$PROJECT_DIR$/wap/source/index.html" />
+        <option value="$PROJECT_DIR$/wap/source/src/checkDetail/checkDetail.html" />
+        <option value="$PROJECT_DIR$/wap/source/src/tradeDetail/tradeDetail.html" />
+        <option value="$PROJECT_DIR$/wap/source/src/balance/balance.html" />
+        <option value="$PROJECT_DIR$/wap/source/src/dealDetail/deal.html" />
+        <option value="$PROJECT_DIR$/wap/source/src/login/login.html" />
+        <option value="$PROJECT_DIR$/site/templates/default/tpl/admin/admin_log.index.php" />
+        <option value="$PROJECT_DIR$/site/templates/default/tpl/user/transacte.php" />
+        <option value="$PROJECT_DIR$/site/templates/default/tpl/login/forgotpassword_html.php" />
+        <option value="$PROJECT_DIR$/site/templates/default/tpl/user/index.php" />
+        <option value="$PROJECT_DIR$/site/templates/default/js/order/order_tp.js" />
+        <option value="$PROJECT_DIR$/site/templates/default/css/addOrder.css" />
+        <option value="$PROJECT_DIR$/site/templates/default/tpl/order/index.php" />
+        <option value="$PROJECT_DIR$/site/templates/default/tpl/order/form.php" />
+        <option value="$PROJECT_DIR$/site/templates/default/tpl/login/registration_protocol_html.php" />
+        <option value="$PROJECT_DIR$/site/templates/default/css/register.css" />
+        <option value="$PROJECT_DIR$/site/templates/default/tpl/login/login_html.php" />
+        <option value="$PROJECT_DIR$/site/templates/default/js/login/login-reg.js" />
+        <option value="$PROJECT_DIR$/site/templates/default/tpl/login/forgotpassword.php" />
+        <option value="$PROJECT_DIR$/site/templates/default/css/global_new.css" />
+        <option value="$PROJECT_DIR$/site/templates/default/tpl/welcome/index.php" />
+        <option value="$PROJECT_DIR$/data/model/api/transOrder.model.php" />
+        <option value="$PROJECT_DIR$/site/templates/default/tpl/login/login.php" />
+        <option value="$PROJECT_DIR$/site/templates/default/tpl/order/tp_bak.php" />
+        <option value="$PROJECT_DIR$/site/templates/default/tpl/order/tp.php" />
+        <option value="$PROJECT_DIR$/api/control/transOrders.php" />
+        <option value="$PROJECT_DIR$/site/templates/default/tpl/trans_house/form.php" />
+        <option value="$PROJECT_DIR$/site/templates/default/tpl/guide/index.php" />
+        <option value="$PROJECT_DIR$/site/templates/default/css/style_new.css" />
+        <option value="$PROJECT_DIR$/site/include/menu.php" />
+        <option value="$PROJECT_DIR$/site/templates/default/layout/index_layout.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-2" />
+    <option name="y" value="31" />
+    <option name="width" value="1924" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="添加" />
+    <OptionsSetting value="true" id="移除" />
+    <OptionsSetting value="true" id="签出" />
+    <OptionsSetting value="true" id="更新" />
+    <OptionsSetting value="true" id="状态" />
+    <OptionsSetting value="true" id="编辑" />
+    <OptionsSetting value="true" id="检出" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="welink" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="welink" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="welink" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="welink" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="welink" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wap" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="welink" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="welink" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wap" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="welink" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="welink" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="welink" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="welink" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="welink" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="welink" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="D:/Webstorm/new-repository/pcm" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="142" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="168" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="168" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="803" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="198" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="208" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="210" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="665" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="include/menu.php&#9;FILE&#9;file://D:/phpStudy/WWW/welink/site/include/menu.php&#10;st&#9;FILE&#9;file://D:/phpStudy/WWW/welink/site/templates/default/css/style_new.css&#10;trans_house&#9;null&#9;null&#10;login-reg.js&#9;FILE&#9;file://D:/phpStudy/WWW/welink/site/templates/default/js/login/login-reg.js&#10;for&#9;FILE&#9;file://D:/phpStudy/WWW/welink/site/templates/default/tpl/login/forgotpassword.php&#10;gl&#9;FILE&#9;file://D:/phpStudy/WWW/welink/site/templates/default/css/global_new.css&#10;style&#9;FILE&#9;file://D:/phpStudy/WWW/welink/site/templates/default/css/style_new.css&#10;login&#9;FILE&#9;file://D:/phpStudy/WWW/welink/site/templates/default/tpl/login/login_html.php&#10;CODE&#9;FILE&#9;file://D:/phpStudy/WWW/welink/site/control/code.php&#10;re&#9;FILE&#9;file://D:/phpStudy/WWW/welink/site/templates/default/js/login/login-reg.js&#10;registration_protocol_html&#9;FILE&#9;file://D:/phpStudy/WWW/welink/site/templates/default/tpl/login/registration_protocol_html.php&#10;sty&#9;FILE&#9;file://D:/phpStudy/WWW/welink/site/templates/default/css/style_new.css&#10;add&#9;FILE&#9;file://D:/phpStudy/WWW/welink/site/templates/default/css/addOrder.css&#10;logo.png&#9;FILE&#9;file://D:/phpStudy/WWW/welink/site/templates/default/images/logo.png&#10;f&#9;FILE&#9;file://D:/phpStudy/WWW/welink/site/templates/default/tpl/login/forgotpassword.php&#10;login_&#9;FILE&#9;file://D:/phpStudy/WWW/welink/site/templates/default/tpl/login/login_html.php&#10;register.cs&#9;FILE&#9;file://D:/phpStudy/WWW/welink/site/templates/default/css/register.css&#10;forgotpass&#9;FILE&#9;file://D:/phpStudy/WWW/welink/site/templates/default/tpl/login/forgotpassword_html.php&#10;forgi&#9;null&#9;null&#10;lo&#9;FILE&#9;file://D:/phpStudy/WWW/welink/wap/source/src/login/login.html&#10;ion&#9;FILE&#9;file://D:/phpStudy/WWW/welink/wap/scss/ionic.app.scss&#10;sf.&#9;FILE&#9;file://D:/phpStudy/WWW/welink/site/templates/default/images/sfz.png&#10;consi&#9;FILE&#9;file://D:/phpStudy/WWW/welink/site/control/consignee.php&#10;card&#9;FILE&#9;file://D:/phpStudy/WWW/welink/site/templates/default/tpl/order/load_card.php&#10;id&#9;FILE&#9;file://D:/phpStudy/WWW/welink/site/templates/default/tpl/user/id_card.php&#10;loginOp()&#9;null&#9;null&#10;in&#9;FILE&#9;file://D:/phpStudy/WWW/welink/site/templates/default/tpl/user/index.php&#10;glo&#9;FILE&#9;file://D:/phpStudy/WWW/welink/site/templates/default/css/global_new.css&#10;form&#9;FILE&#9;file://D:/phpStudy/WWW/welink/site/templates/default/tpl/order/form.php&#10;IDCard.js&#9;FILE&#9;file://D:/phpStudy/WWW/welink/site/templates/default/js/order/IDCard.js&#10;order_id&#9;null&#9;null&#10;layui-layer-btn1&#9;null&#9;null&#10;goods&#9;null&#9;null&#10;goodsC&#9;null&#9;null&#10;addG&#9;null&#9;null&#10;提交&#9;ACTION&#9;ChangesView.Commit&#10;url&#9;ACTION&#9;JavaScriptDebugger.OpenUrl" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\phpStudy\WWW\welink\site\templates\default\js\select2" />
+      <recent name="D:\phpStudy\WWW\welink\site\control" />
+      <recent name="D:\phpStudy\WWW\welink\site\templates\default\images" />
+      <recent name="D:\phpStudy\WWW\welink\site\templates\default\js\validate" />
+      <recent name="D:\phpStudy\WWW\welink\site\templates\default\images\login" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\phpStudy\WWW\welink\site\templates\default\images" />
+      <recent name="D:\phpStudy\WWW\welink\site\templates\default\tpl\order" />
+      <recent name="D:\phpStudy\WWW\welink\site\templates\default\js\login" />
+      <recent name="D:\phpStudy\WWW\welink\site\templates\default\tpl\welcome" />
+      <recent name="D:\phpStudy\WWW\welink\site\control" />
+    </key>
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.gitignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/data/model/api/transOrder.model.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/deploy.sh</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/site/control/weixin/index.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/site/templates/default/tpl/weixin/article_list.php</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/data/log/.gitignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/data/session/.gitignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/data/upload/idcard/.gitignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/data/upload/order/.gitignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/data/upload/xlsx_temp/.gitignore</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.deploy.sh.swp</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.tradeDetail.html">
+    <configuration default="false" name="威廉系统.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/welink/core/framework/html/威廉系统.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="register.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/welink/wap/source/src/register/register.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="tradeDetail.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/welink/wap/source/src/tradeDetail/tradeDetail.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="balance.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/welink/wap/source/src/balance/balance.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="deal.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/welink/wap/source/src/dealDetail/deal.html">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.威廉系统.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.register.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.tradeDetail.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.balance.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.deal.html" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.tradeDetail.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.balance.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.deal.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.register.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.威廉系统.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f3a586f-e395-4341-b386-989b05b898e3" name="Default" comment="" />
+      <changelist id="76220690-4d3f-4eb3-9819-bd02270ac9f1" name="New changeList" comment="" />
+      <changelist id="ebfa275b-bc83-4348-8648-318e0ca86719" name="Newchangelist" comment="" />
+      <changelist id="2b93891f-f487-421b-bba4-c7ed5263db88" name="nis" comment="" />
+      <changelist id="9f7ded4d-89aa-46d2-9c76-8f7cb6f99628" name="New changelist" comment="" />
+      <changelist id="cb9cc01e-e687-46ed-8d39-5c3e3ae4d21e" name="Nw changelist" comment="" />
+      <changelist id="2154af2b-9db1-479c-8c78-6f51688931c0" name="Newhangelist" comment="" />
+      <changelist id="eaf17950-ca06-481e-8ca9-a736e1f0d22c" name="Nechangelist" comment="" />
+      <changelist id="0b908dd1-e41b-4275-a869-d432b43d511a" name="Nwchangelist" comment="" />
+      <changelist id="3350f729-19ec-45e5-a09d-fc18869c2162" name="New chgelist" comment="" />
+      <created>1465780741301</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1465780741301</updated>
+      <workItem from="1465780742423" duration="263000" />
+      <workItem from="1465781015823" duration="27000" />
+      <workItem from="1465781068512" duration="135000" />
+      <workItem from="1465781212369" duration="10545000" />
+      <workItem from="1465802978423" duration="89000" />
+      <workItem from="1465803520424" duration="3229000" />
+      <workItem from="1465806767482" duration="18455000" />
+      <workItem from="1465866204606" duration="35977000" />
+      <workItem from="1465952344058" duration="14731000" />
+      <workItem from="1465975785568" duration="177476000" />
+      <workItem from="1466469355715" duration="154417000" />
+      <workItem from="1466943508950" duration="163868000" />
+      <workItem from="1467427249073" duration="157190000" />
+      <workItem from="1467979098647" duration="59971000" />
+      <workItem from="1468221825717" duration="14103000" />
+      <workItem from="1468241515193" duration="53305000" />
+      <workItem from="1468567059244" duration="676000" />
+      <workItem from="1468577229024" duration="5199000" />
+      <workItem from="1468642820944" duration="6873000" />
+      <workItem from="1468651047005" duration="3695000" />
+      <workItem from="1468821630955" duration="1366000" />
+      <workItem from="1468918625066" duration="4217000" />
+      <workItem from="1468934935507" duration="852000" />
+      <workItem from="1469001237835" duration="4133000" />
+      <workItem from="1469006541336" duration="634000" />
+      <workItem from="1469093008544" duration="551000" />
+      <workItem from="1469095669504" duration="205000" />
+      <workItem from="1469096650394" duration="763000" />
+      <workItem from="1469169402097" duration="1783000" />
+      <workItem from="1469426137475" duration="14210000" />
+      <workItem from="1469516043262" duration="9415000" />
+      <workItem from="1469608623631" duration="1747000" />
+      <workItem from="1469781009634" duration="1995000" />
+      <workItem from="1469795110013" duration="5664000" />
+      <workItem from="1470019447185" duration="851000" />
+      <workItem from="1470186976099" duration="932000" />
+      <workItem from="1470359658075" duration="3562000" />
+      <workItem from="1470628951384" duration="610000" />
+      <workItem from="1470808231151" duration="787000" />
+      <workItem from="1471328445583" duration="2988000" />
+      <workItem from="1471935755314" duration="2472000" />
+      <workItem from="1472031299500" duration="1027000" />
+      <workItem from="1472096711191" duration="3031000" />
+      <workItem from="1472203573200" duration="5984000" />
+      <workItem from="1472214249714" duration="175000" />
+      <workItem from="1473844016195" duration="2247000" />
+      <workItem from="1474188672695" duration="3880000" />
+      <workItem from="1475730842727" duration="121000" />
+    </task>
+    <task id="LOCAL-00102" summary="+ 同步订单提示框  上传身份证提示框">
+      <created>1468157642971</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1468157642971</updated>
+    </task>
+    <task id="LOCAL-00103" summary="* 样式bug">
+      <created>1468218049706</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1468218049707</updated>
+    </task>
+    <task id="LOCAL-00104" summary="* 样式bug 个人管理-商品管理">
+      <created>1468218159819</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1468218159819</updated>
+    </task>
+    <task id="LOCAL-00105" summary="* 收件人管理，查看详情  转运订单，查看详情">
+      <created>1468229587407</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1468229587407</updated>
+    </task>
+    <task id="LOCAL-00106" summary="* 收件人管理，查看详情  转运订单，查看详情">
+      <created>1468229722566</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1468229722566</updated>
+    </task>
+    <task id="LOCAL-00107" summary="* 收件人管理，添加按钮加图标">
+      <created>1468230337434</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1468230337434</updated>
+    </task>
+    <task id="LOCAL-00108" summary="* 收件人管理，添加按钮加图标">
+      <created>1468230360026</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1468230360026</updated>
+    </task>
+    <task id="LOCAL-00109" summary="* 收件人管理,查看详情">
+      <created>1468232012059</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1468232012059</updated>
+    </task>
+    <task id="LOCAL-00110" summary="* 收件人管理,查看详情">
+      <created>1468232024284</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1468232024284</updated>
+    </task>
+    <task id="LOCAL-00111" summary="* 商品管理页面，点击添加按钮影响到页面的字体样式问题">
+      <created>1468241121154</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1468241121154</updated>
+    </task>
+    <task id="LOCAL-00112" summary="* 商品管理页面，点击添加按钮影响到页面的字体样式问题">
+      <created>1468241158470</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1468241158470</updated>
+    </task>
+    <task id="LOCAL-00113" summary="* 上传身份证验证">
+      <created>1468288390658</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1468288390659</updated>
+    </task>
+    <task id="LOCAL-00114" summary="* 上传身份证样式">
+      <created>1468295598392</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1468295598392</updated>
+    </task>
+    <task id="LOCAL-00115" summary="* 上传身份证样式">
+      <created>1468295617025</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1468295617025</updated>
+    </task>
+    <task id="LOCAL-00116" summary="* 查看详情按钮文字居中">
+      <created>1468305446806</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1468305446806</updated>
+    </task>
+    <task id="LOCAL-00117" summary="* 上传身份证样式">
+      <created>1468305486278</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1468305486278</updated>
+    </task>
+    <task id="LOCAL-00118" summary="+ 交易明细，交易详情，账户余额页面">
+      <created>1468380980851</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1468380980851</updated>
+    </task>
+    <task id="LOCAL-00119" summary="+ 交易明细，交易详情，账户余额页面">
+      <created>1468381632450</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1468381632450</updated>
+    </task>
+    <task id="LOCAL-00120" summary="* 登录注册页面样式">
+      <created>1468462190223</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1468462190223</updated>
+    </task>
+    <task id="LOCAL-00121" summary="+ 交易明细，交易详情，账户余额页面">
+      <created>1468462265155</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1468462265155</updated>
+    </task>
+    <task id="LOCAL-00122" summary="* 修改登录注册页面样式">
+      <created>1468462621386</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1468462621386</updated>
+    </task>
+    <task id="LOCAL-00123" summary="* 修改登录注册页面样式">
+      <created>1468462646582</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1468462646582</updated>
+    </task>
+    <task id="LOCAL-00124" summary="* 修改登录注册页面样式">
+      <created>1468462786279</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1468462786279</updated>
+    </task>
+    <task id="LOCAL-00125" summary="* 修改登录注册页面样式">
+      <created>1468463050704</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1468463050704</updated>
+    </task>
+    <task id="LOCAL-00126" summary="* 修改登录注册页面样式">
+      <created>1468463071334</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1468463071334</updated>
+    </task>
+    <task id="LOCAL-00127" summary="* 修改邮箱找回页面样式">
+      <created>1468463999136</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1468463999137</updated>
+    </task>
+    <task id="LOCAL-00128" summary="* 修改邮箱找回页面样式">
+      <created>1468464023837</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1468464023837</updated>
+    </task>
+    <task id="LOCAL-00129" summary="* 修改中新增转仓样式  交易记录">
+      <created>1468580172521</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1468580172522</updated>
+    </task>
+    <task id="LOCAL-00130" summary="* 修改中新增转仓样式  交易记录">
+      <created>1468580201478</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1468580201478</updated>
+    </task>
+    <task id="LOCAL-00131" summary="* 修改中新增转仓样式  交易记录">
+      <created>1468580365991</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1468580365991</updated>
+    </task>
+    <task id="LOCAL-00132" summary="* 修改中新增转仓样式  交易记录">
+      <created>1468580391448</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1468580391448</updated>
+    </task>
+    <task id="LOCAL-00133" summary="* 找回密码页面样式">
+      <created>1468590161242</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1468590161242</updated>
+    </task>
+    <task id="LOCAL-00134" summary="* 找回密码页面样式">
+      <created>1468590192388</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1468590192388</updated>
+    </task>
+    <task id="LOCAL-00135" summary="* 找回密码页面样式">
+      <created>1468643642367</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1468643642367</updated>
+    </task>
+    <task id="LOCAL-00136" summary="* 找回密码页面样式">
+      <created>1468643682465</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1468643682465</updated>
+    </task>
+    <task id="LOCAL-00137" summary="* 找回密码页面样式">
+      <created>1468643861295</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1468643861295</updated>
+    </task>
+    <task id="LOCAL-00138" summary="* 找回密码页面样式">
+      <created>1468644149702</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1468644149702</updated>
+    </task>
+    <task id="LOCAL-00139" summary="* 找回密码页面样式">
+      <created>1468644936771</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1468644936771</updated>
+    </task>
+    <task id="LOCAL-00140" summary="* 找回密码页面样式">
+      <created>1468644994795</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1468644994795</updated>
+    </task>
+    <task id="LOCAL-00141" summary="* 找回密码页面样式">
+      <created>1468645789981</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1468645789981</updated>
+    </task>
+    <task id="LOCAL-00142" summary="* 找回密码页面样式">
+      <created>1468645813999</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1468645813999</updated>
+    </task>
+    <task id="LOCAL-00143" summary="* 找回密码页面样式">
+      <created>1468648505717</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1468648505717</updated>
+    </task>
+    <task id="LOCAL-00144" summary="* 找回密码页面样式">
+      <created>1468648548996</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1468648548996</updated>
+    </task>
+    <task id="LOCAL-00145" summary="* 找回密码页面样式">
+      <created>1468651123403</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1468651123403</updated>
+    </task>
+    <task id="LOCAL-00146" summary="* 找回密码页面样式">
+      <created>1468651680864</created>
+      <option name="number" value="00146" />
+      <option name="presentableId" value="LOCAL-00146" />
+      <option name="project" value="LOCAL" />
+      <updated>1468651680864</updated>
+    </task>
+    <task id="LOCAL-00147" summary="* 找回密码页面样式">
+      <created>1468652347196</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1468652347196</updated>
+    </task>
+    <task id="LOCAL-00148" summary="* 找回密码页面样式">
+      <created>1468652391213</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1468652391213</updated>
+    </task>
+    <task id="LOCAL-00149" summary="* 找回密码页面样式">
+      <created>1472204240310</created>
+      <option name="number" value="00149" />
+      <option name="presentableId" value="LOCAL-00149" />
+      <option name="project" value="LOCAL" />
+      <updated>1472204240311</updated>
+    </task>
+    <task id="LOCAL-00150" summary="* 找回密码页面样式">
+      <created>1472204282078</created>
+      <option name="number" value="00150" />
+      <option name="presentableId" value="LOCAL-00150" />
+      <option name="project" value="LOCAL" />
+      <updated>1472204282078</updated>
+    </task>
+    <option name="localTasksCounter" value="151" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="956426000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-2" y="31" width="1924" height="1056" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20376344" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297062" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41216215" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45185995" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297062" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37758434" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297062" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18365921" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17954299" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="*  关闭编辑个人信息弹窗" />
+    <MESSAGE value="*  添加订单样式" />
+    <MESSAGE value="*  添加订单样式  选择收件人" />
+    <MESSAGE value="*  表格在低分辨率时显示不全问题" />
+    <MESSAGE value="*  选择收件人样式" />
+    <MESSAGE value="*  收件人編輯樣式" />
+    <MESSAGE value="* 编辑收件人页面，上传身份证页面" />
+    <MESSAGE value="* 编辑收件人页面，收件人地区样式" />
+    <MESSAGE value="* 商品管理，添加商品样式" />
+    <MESSAGE value="+ 同步订单提示框  上传身份证提示框" />
+    <MESSAGE value="* 样式bug" />
+    <MESSAGE value="* 样式bug 个人管理-商品管理" />
+    <MESSAGE value="* 收件人管理，查看详情  转运订单，查看详情" />
+    <MESSAGE value="* 收件人管理，添加按钮加图标" />
+    <MESSAGE value="* 收件人管理,查看详情" />
+    <MESSAGE value="* 商品管理页面，点击添加按钮影响到页面的字体样式问题" />
+    <MESSAGE value="* 上传身份证验证" />
+    <MESSAGE value="* 查看详情按钮文字居中" />
+    <MESSAGE value="* 上传身份证样式" />
+    <MESSAGE value="* 登录注册页面样式" />
+    <MESSAGE value="+ 交易明细，交易详情，账户余额页面" />
+    <MESSAGE value="* 修改登录注册页面样式" />
+    <MESSAGE value="* 修改邮箱找回页面样式" />
+    <MESSAGE value="* 修改中新增转仓样式  交易记录" />
+    <MESSAGE value="* 找回密码页面样式" />
+    <option name="LAST_COMMIT_MESSAGE" value="* 找回密码页面样式" />
+    <option name="PRESELECT_EXISTING_CHANGELIST" value="false" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wap/source/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-908">
+          <caret line="203" column="1" selection-start-line="203" selection-start-column="1" selection-end-line="203" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wap/source/src/tradeDetail/tradeDetail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="658">
+          <caret line="119" column="0" selection-start-line="62" selection-start-column="13" selection-end-line="119" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wap/scss/ionic.app.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wap/source/src/checkConsignee/checkConsignee.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="48" column="16" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wap/source/src/balance/balance.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="65" column="33" selection-start-line="65" selection-start-column="33" selection-end-line="65" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/control/mobile/goods.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wap/source/src/dealDetail/deal.html" />
+    <entry file="file://$PROJECT_DIR$/wap/source/src/forgottenPwd/forgottenPwd.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-128">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wap/source/src/login/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/templates/default/tpl/admin/admin_log.index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/templates/default/tpl/trans_house/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" column="95" selection-start-line="17" selection-start-column="95" selection-end-line="17" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/templates/default/tpl/user/transacte.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wap/source/src/login/login.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-27">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/control/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4266">
+          <caret line="160" column="18" selection-start-line="160" selection-start-column="18" selection-end-line="160" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/templates/default/tpl/login/forgotpassword_html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3699">
+          <caret line="137" column="0" selection-start-line="137" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/templates/default/tpl/admin/gadmin.add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/templates/default/tpl/user/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="40" column="18" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/templates/default/images/logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/templates/default/js/order/order_tp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5292">
+          <caret line="196" column="11" selection-start-line="196" selection-start-column="11" selection-end-line="196" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/templates/default/images/login/dg.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/templates/default/tpl/user/bill.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1620">
+          <caret line="60" column="11" selection-start-line="60" selection-start-column="11" selection-end-line="60" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/templates/default/tpl/login/registration_protocol_html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1485">
+          <caret line="55" column="26" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/control/code.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="40" column="27" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/templates/default/tpl/login/login_html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2511">
+          <caret line="93" column="42" selection-start-line="93" selection-start-column="42" selection-end-line="93" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/templates/default/css/register.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7110">
+          <caret line="237" column="25" selection-start-line="237" selection-start-column="25" selection-end-line="237" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/templates/default/js/login/login-reg.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8670">
+          <caret line="289" column="4" selection-start-line="289" selection-start-column="7" selection-end-line="306" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/templates/default/tpl/login/forgotpassword.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4710">
+          <caret line="158" column="75" selection-start-line="158" selection-start-column="53" selection-end-line="158" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/templates/default/css/global_new.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2880">
+          <caret line="96" column="1" selection-start-line="96" selection-start-column="1" selection-end-line="96" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/templates/default/tpl/welcome/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/model/api/transOrder.model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wap/www/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/templates/default/tpl/login/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9660">
+          <caret line="322" column="7" selection-start-line="322" selection-start-column="7" selection-end-line="322" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/templates/default/tpl/order/tp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2415">
+          <caret line="115" column="59" selection-start-line="115" selection-start-column="59" selection-end-line="115" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/templates/default/tpl/goods/import.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/templates/default/tpl/order/import.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/templates/default/tpl/order/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1554">
+          <caret line="74" column="53" selection-start-line="74" selection-start-column="53" selection-end-line="74" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/templates/default/tpl/order/index - 副本.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8778">
+          <caret line="418" column="0" selection-start-line="418" selection-start-column="0" selection-end-line="419" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/templates/default/tpl/order/tp_bak.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8925">
+          <caret line="425" column="95" selection-start-line="425" selection-start-column="95" selection-end-line="425" selection-end-column="95" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/templates/default/tpl/order/load_card.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/templates/default/tpl/order/form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/templates/default/css/addOrder.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2562">
+          <caret line="122" column="1" selection-start-line="122" selection-start-column="1" selection-end-line="122" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/control/transOrders.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/control/trans_house.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3465">
+          <caret line="165" column="51" selection-start-line="165" selection-start-column="51" selection-end-line="165" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/aa.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/templates/default/images/order.jpg" />
+    <entry file="file://$PROJECT_DIR$/site/img.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/templates/default/tpl/trans_house/form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5229">
+          <caret line="249" column="30" selection-start-line="249" selection-start-column="30" selection-end-line="249" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/templates/default/tpl/guide/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/templates/default/css/style_new.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3297">
+          <caret line="157" column="43" selection-start-line="157" selection-start-column="43" selection-end-line="157" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/include/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="819">
+          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/templates/default/layout/index_layout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="122" column="22" selection-start-line="122" selection-start-column="22" selection-end-line="122" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

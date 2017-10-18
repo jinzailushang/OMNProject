@@ -1,0 +1,5 @@
+{
+    "require": {
+        "cszchen/citizenid": "^1.0"
+    }
+}

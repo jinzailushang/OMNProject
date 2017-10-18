@@ -1,0 +1,23 @@
+<?php
+return array(
+  'dbdriver' => 'mysql',
+  'tablepre' => 'wl_',
+  'db' => array(
+    1 => array(
+      'dbhost' => '192.168.1.11',
+      'dbport' => '3306',
+      'dbuser' => 'root',
+      'dbpwd' => '2016',
+      'dbname' => 'welink',
+      'dbcharset' => 'UTF-8'
+    ),
+    'slave' => array()
+  ),
+
+  'debug' => false,
+  'wl_wsdl' => 'http://58.96.183.96:8077/PackageService.svc?wsdl',
+  'wl_customerid' => 'MSCXGS', //用户标识
+  'wl_hz' => 'HZ005',   //货站
+  'wl_jd' => 'CH0006',   //渠道
+  'api_key' => '9643fLvSGExy76Gvdhv6eLvCVsipG', //外部查询订单状态分配值
+);

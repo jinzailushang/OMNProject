@@ -1,0 +1,1 @@
+<?php defined('InOmniWL') or exit('Access Invalid!');?>

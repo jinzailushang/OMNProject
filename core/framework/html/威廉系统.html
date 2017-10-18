@@ -1,0 +1,241 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0061)http://www.local.welink.com/site/index.php?act=login&op=login -->
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        
+            <title>威廉系统</title>
+            <script type="text/javascript" src="./威廉系统_files/jquery.1_9_1_min.js"></script>
+			<script>
+				$(function(){
+					$(".login").click(function(){
+						$("#login").show();
+						$("#resiger").hide();
+						$(this).removeClass("on");
+						$(this).siblings().addClass("on")
+					})
+					$(".resiger").click(function(){
+						$("#login").hide();
+						$("#resiger").show();
+						$(this).removeClass("on");
+						$(this).siblings().addClass("on")
+					})	
+				})
+			</script>
+            <link href="./威廉系统_files/login.css" rel="stylesheet" type="text/css">
+    </head>
+	<body>
+		<header>
+			<div class="top">
+				<div class="w1000 por">
+					<div class="logo poa">
+						<a href="http://www.local.welink.com/site/index.php?act=login&amp;op=login#">
+							<img src="./威廉系统_files/logo.png">
+						</a>
+					</div>
+					<div class="topimg poa">
+						<img src="./威廉系统_files/top-nav.png">
+					</div>
+				</div>
+			</div>
+		</header>
+		
+
+<div class="login-banner">
+	<div class="m-loginBody">
+    	<div class="m-loginWrap clearfix">
+        	<div class="loginForm clearfix">
+            	<div class="login-title clearfix">
+                    <h2 class="clearfix login">登录</h2>
+                    <h4 class="resiger on">注册</h4>
+                </div>
+                <div class="loginForm-box">
+                    <div class="login-box" id="login" style="display: block;">
+                        <form method="post" id="form_login" class="form clr">
+                        <input type="hidden" name="formhash" value="u0DntU-YMBm1HmKB2dQ6yEr5lFr-zVj">                        <input type="hidden" name="form_submit" value="ok">
+                        <input type="hidden" name="SiteUrl" id="SiteUrl" value="SHOP_SITE_URL">
+                        <input type="hidden" name="nchash" id="nchash" value="">
+                            <div class="field ph-hide username-field">
+                                <label for="TPL_username_1">
+                                    <i class="ico ico-user" title="会员名"></i>
+                                </label>
+                                <input name="user_name" class="login-text" autocomplete="off" value="" placeholder="邮箱/会员名/8位ID" id="user_name" required="">
+                                <span class="nickx">
+                                    <i class="iconfont"></i>
+                                </span>
+                            </div>
+                            <div class="input-tip">
+                                <span id="form-account-error" class="error"></span>
+                            </div>
+                            <div class="field pwd-field">
+                                <label id="password-label" for="TPL_password_1">
+                                    <i class="ico ico-pass" title="会员名"></i>
+                                </label>
+                                <span class="J_StandardPwd">
+                                    <input name="password" type="password" id="password" class="login-text" autocomplete="off" placeholder="输入密码" required="" pattern="[\S]{6}[\S]*">
+                                </span>
+                            </div>
+                            <div class="input-tip">
+                                <span id="form-account-error" class=""></span>
+                            </div>
+                            <div class="field valid-field">
+                                <label id="password-label" for="TPL_password_1">
+                                    <i class="ico ico-valid" title="验证码"></i>
+                                </label>
+                                <span class="J_StandardPwd">
+                                    <input name="captcha" type="text" class="login-text" id="captcha" placeholder="输入验证" pattern="[A-z0-9]{4}" title="输入验证" autocomplete="off" maxlength="4" required="">
+                                </span>
+                                <div class="code">
+                                    <div class="arrow"></div>
+                    <div class="code-img"><a href="JavaScript:void(0);" onclick="javascript:document.getElementById(&#39;codeimage&#39;).src = &#39;index.php?act=code&amp;op=makecode&amp;admin=1&amp;nchash=&amp;t=&#39; + Math.random();" class="change" title="刷新"><img src="./威廉系统_files/index.php" name="codeimage" id="codeimage" border="0" width="81" height="36"></a></div>
+                                </div>
+                            </div>
+                            <div class="login-links">
+                                <a href="javascript:" class="remember-password"><input id="un-register" name="" type="radio" value="" class="un-register" checked="" required="">记住密码</a>
+    <!--                            <div href="" class="b-unlogn"><input id="un-login" name="ten" type="checkbox" value="1" class="un-login" /><label for="un-login" class="un-login-check">十天内免登录</label></div>-->
+                                <a href="javascript:" class="forget-password">忘记密码？</a>
+                            </div>
+                            <div class="submit">
+                                <button type="submit" class="J_Submit">登　录</button>
+                            </div>
+                        </form>
+                    </div>
+    <!--                    手机注册-->
+                    <div class="login-box" id="resiger" style="display: none;">
+                        <form method="post" id="form_reg" class="form clr" action="http://www.local.welink.com/site/index.php?act=login&amp;op=register">
+<!--                            <input type="hidden" name="form_submit" value="ok" />-->
+                            <div class="field ph-hide username-field">
+                                <select class="ph-select">
+                                    <option>中国</option>
+                                    <option>JP</option>
+                                    <option>USA</option>
+                                </select>
+                            </div>
+                            <div class="ph-input-tip">
+                                <span id="form-account-error" class="error"></span>
+                            </div>
+                            <div class="field ph-hide username-field">
+                                <input name="u_name" type="" class="login-text" autocomplete="off" placeholder="请输入手机号码" id="u_name" required="">
+                            </div>
+                            <div class="ph-input-tip">
+                                <span id="form-account-error" class="error"></span>
+                            </div>
+                            <div class="field valid-field">
+                                <span class="J_StandardPwd">
+                                    <input type="text" name="captcha" id="TPL_password_1" class="login-text" placeholder="请输入验证" pattern="[A-z0-9]{4}" autocomplete="off" maxlength="4" required="">
+                                </span>
+                                <div class="code">
+                                    <div class="arrow"></div>
+                                    <div class="code-img"><a href="JavaScript:void(0);" onclick="javascript:document.getElementById(&#39;codeimage&#39;).src = &#39;index.php?act=code&amp;op=makecode&amp;admin=1&amp;nchash=&amp;t=&#39; + Math.random();" class="change" title="刷新"><img src="./威廉系统_files/index.php" name="codeimage" id="codeimage" border="0" width="81" height="36"></a></div>
+                                </div>
+                            </div>
+                            <div class="ph-input-tip">
+                                <span id="form-account-error" class="error"></span>
+                            </div>
+                            <div class="field pwd-field">
+                                <span class="J_StandardPwd">
+                                    <input type="password" name="password" id="password" class="login-text" placeholder="请输入6-20个字符的密码" required="" pattern="[\S]{6}[\S]*">
+                                </span>
+                            </div>
+                            <div class="ph-input-tip">
+                                <span id="form-account-error" class="error"></span>
+                            </div>
+                            <div class="field pwd-field">
+                                <span class="J_StandardPwd">
+                                    <input type="password" name="re_pwd" id="re_pwd" class="login-text" placeholder="请确认密码" required="" pattern="[\S]{6}[\S]*">
+                                </span>
+                            </div>
+
+                            <div class="login-links">
+                                <div href="" class="b-unlogn"><input id="un-register" name="" type="radio" value="" class="un-register" checked="" required=""><label for="un-login" class="un-login-check">同意<a href="http://www.local.welink.com/site/index.php?act=login&amp;op=login" id="protocol">《威廉注册协议》</a></label></div>
+                            </div>
+                            <div class="submit">
+                                <button type="submit" class="J_Submit">立即注册</button>
+                            </div>
+                            <div class="use-enroll">
+                                <a href="javascript:">使用邮箱注册</a>
+                            </div>
+                        </form>
+                        </div>
+<!--                    邮箱注册-->
+<!--                    <div class="login-box" id="resiger" style="display: block;">-->
+<!--                        <form method="post" id="form_reg" class="form clr" action="http://www.local.welink.com/site/index.php?act=login&amp;op=register">-->
+<!--                            <input type="hidden" name="form_submit" value="ok">-->
+<!--                            <div class="field ph-hide username-field">-->
+<!--                                <label for="TPL_username_1">-->
+<!--                                    <i class="ico ico-user" title="电子邮箱"></i>-->
+<!--                                </label>-->
+<!--                                <input name="u_name" type="email" class="login-text" autocomplete="off" placeholder="电子邮箱" id="u_name" required="">-->
+<!--                            </div>-->
+<!--                            <div class="input-tip">-->
+<!--                                <span id="form-account-error" class="error"></span>-->
+<!--                            </div>-->
+<!--                            <div class="field pwd-field">-->
+<!--                                <label id="password-label" for="TPL_password_1">-->
+<!--                                    <i class="ico ico-pass" title="输入密码"></i>-->
+<!--                                </label>-->
+<!--                            <span class="J_StandardPwd">-->
+<!--                                <input type="password" name="password" id="password" class="login-text" placeholder="输入密码" required="" pattern="[\S]{6}[\S]*">-->
+<!--                            </span>-->
+<!--                            </div>-->
+<!--                            <div class="input-tip">-->
+<!--                                <span id="form-account-error" class="error"></span>-->
+<!--                            </div>-->
+<!--                            <div class="field pwd-field">-->
+<!--                                <label id="password-label" for="TPL_password_1">-->
+<!--                                    <i class="ico ico-pass" title="确认密码"></i>-->
+<!--                                </label>-->
+<!--                            <span class="J_StandardPwd">-->
+<!--                                <input type="password" name="re_pwd" id="re_pwd" class="login-text" placeholder="确认密码" required="" pattern="[\S]{6}[\S]*">-->
+<!--                            </span>-->
+<!--                            </div>-->
+<!--                            <div class="input-tip">-->
+<!--                                <span id="form-account-error" class="error"></span>-->
+<!--                            </div>-->
+<!--                            <div class="field valid-field">-->
+<!--                                <label id="password-label" for="TPL_password_1">-->
+<!--                                    <i class="ico ico-valid" title="验证码"></i>-->
+<!--                                </label>-->
+<!--                            <span class="J_StandardPwd">-->
+<!--                                <input type="text" name="captcha" id="TPL_password_1" class="login-text" placeholder="输入验证" pattern="[A-z0-9]{4}" autocomplete="off" maxlength="4" required="">-->
+<!--                            </span>-->
+<!--                                <div class="code">-->
+<!--                                    <div class="arrow"></div>-->
+<!--                                    <div class="code-img"><a href="JavaScript:void(0);" onclick="javascript:document.getElementById('codeimage').src = 'index.php?act=code&amp;op=makecode&amp;admin=1&amp;nchash=&amp;t=' + Math.random();" class="change" title="刷新"><img src="index.php?act=code&amp;op=makecode&amp;admin=1&amp;nchash=" name="codeimage" id="codeimage" border="0" width="81" height="36"></a></div>-->
+<!--                                </div>-->
+<!--                            </div>-->
+<!--                            <div class="login-links">-->
+<!--                                <div href="" class="b-unlogn"><input id="un-register" name="" type="radio" value="" class="un-register" checked="" required=""><label for="un-login" class="un-login-check">同意<a href="" id="protocol">《威廉注册协议》</a></label></div>-->
+<!--                            </div>-->
+<!--                            <div class="submit">-->
+<!--                                <button type="submit" class="J_Submit">立即注册</button>-->
+<!--                            </div>-->
+<!--                            <div class="use-enroll">-->
+<!--                                <a href="javascript:">使用手机注册</a>-->
+<!--                            </div>-->
+<!--                        </form>-->
+<!--                    </div>-->
+                </div>
+            </div>
+        </div>
+    </div>
+</div>		<footer>
+			<div class="foot-box">
+				<div class="w1000 por">
+					<div class="foot-logo poa"><a href="http://www.local.welink.com/site/index.html"><img src="./威廉系统_files/foot_logo.png"></a></div>
+					<div class="foot-text poa">
+						<p><span>友情链接</span></p>
+						<div class="foot-nav clear">
+							<a target="_blank" href="http://xianlife.com/">鲜LIFE</a>
+							<span class="sep">|</span>
+							<a target="_blank" href="http://elly.xianlife.com/">爱莉颜芝</a>
+							<span class="sep">|</span>
+							<a target="_blank" href="http://www.my-worldstore.com/">世界商店</a>
+						</div>
+						<p>Copyright © 2016 welinkexpress.com Inc</p>
+					</div>
+					<div class="foot-code poa"><img src="./威廉系统_files/foot_code.png"></div>
+				</div>
+			</div>
+		</footer>
+	
+
+</body></html>

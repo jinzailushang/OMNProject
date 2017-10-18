@@ -1,0 +1,116 @@
+html {height:100%;max-height:100%;padding:0;margin:0;border:0;background:#fff;font-family:georgia, palatino linotype, times new roman, serif,"宋体";
+    /* hide overflow:hidden from IE5/Mac */
+    /* /*/
+    overflow: hidden;
+    /* */
+}
+/*html {
+scrollbar-face-color:orange;
+scrollbar-highlight-color:#fff;
+scrollbar-shadow-color:#c00;
+scrollbar-3dlight-color:#c00;
+scrollbar-arrow-color:#000;
+scrollbar-track-color:#c0c0c0;
+scrollbar-darkshadow-color:#fff;
+}*/
+body{height:100%;max-height:100%;overflow:hidden;overflow-y:auto;padding:0;margin:0; border:0;}
+#content{overflow:auto; position:absolute; z-index:3; top:100px; width:96%;bottom:80px; left:2%; background:#666;}
+*html #content {top:0; left:2%; height:100%; max-height:100%; width:96%; overflow:auto;position:absolute; z-index:3; border-top:100px solid #fff; border-bottom:80px solid #fff;}
+
+
+*                       { margin:0; padding:0; }
+body                    {background:#fff; color:#444; font-size:12px; font-family: "宋体";  }
+
+a                       { color:#444; text-decoration:none; }
+a:hover                 { color:#38599e; text-decoration:none; }
+a img                   { border:0; }
+:focus                  { outline:none;-moz-outline:none;}
+
+/* Heading 
+h1, h2, h3, h4          { line-height:1.4em; }
+h2                      { font-size:1.7em; }
+h3                      { margin:.5em 0; color:#253033; font-size:1.25em; }
+h4                      { margin:.6em 0; color:#494848; font-size:1.05em; }
+h5                      { font-size:1.05em; }
+h6                      { font-size:1em; }
+h1 a, h1 a:hover, 
+h2 a, h2 a:hover, 
+h3 a, h3 a:hover,
+h4 a, h4 a:hover        { font-weight:normal; }
+*/
+/* Table */
+th                      { /*padding:0; text-align:left; vertical-align:top; */}
+td                      { /*padding:0; vertical-align:top;*/ }
+
+/* Paragraph */
+p, address              { margin-bottom:.5em;
+                          /*color: #999;*/
+                         }
+
+address                 { font-style:normal; }
+cite                    { font-style:normal; font-size:10px; }
+q:before,
+q:after                 { content:'';}
+
+/* Form */
+form                    { display:inline; }
+fieldset                { /*border:0; */ border:1px solid #ccc; padding:5px;}
+legend                  { /*display:none; display:block !important; height:0; line-height:0; margin:0; overflow:hidden; padding:0; width:0; visibility:hidden;*/ }
+label                   { color:#333; }
+input, select           { vertical-align:middle; }
+textarea                { overflow:auto; }
+
+/* Lists */
+ul,ol                   { list-style:none; }
+dt                      { display:block; }
+
+/* Size */
+small                   { font-size:.9em; }
+big                     { font-size:1.25em; }
+.clear{ clear:both;}
+
+input.button{ border-radius: 3px 3px 3px 3px;}
+textarea, input[type="text"], input[type="password"], input[type="file"], input[type="button"], input[type="submit"], input[type="reset"], input[type="email"], input[type="number"], input[type="search"], input[type="tel"], input[type="url"], select {
+    border: 1px solid #DFDFDF;
+}
+textarea, input[type="text"], input[type="password"], input[type="file"], input[type="button"], input[type="submit"], input[type="reset"], input[type="email"], input[type="number"], input[type="search"], input[type="tel"], input[type="url"], select {
+    background-color: #FFFFFF;
+    color: #333333;
+}
+
+
+textarea, input, select {
+    margin: 1px;
+    padding: 3px;
+    vertical-align:middle;
+}
+.clearfix:after { clear: both; content: " "; display: block; font-size: 0; height: 0; visibility: hidden;}
+.control-group::before,.control-group::after {content: ""; display: table; line-height: 0;clear: both;}
+*::before, *::after {
+    box-sizing: border-box;
+}
+
+:after, :before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+/*下单指引图片*/
+.guide img {
+    display: block;
+    margin: 80px auto;
+    /*width: 94%;*/
+}
+
+/*个人中心*/
+.edit-button {
+    width:80px;
+    height:30px;
+    border-radius:4px;
+}
+
+.operationsbox #create-div {
+    cursor: pointer;
+    height: 23px;
+}

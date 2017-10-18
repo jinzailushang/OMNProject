@@ -1,0 +1,254 @@
+/*修改后*/
+* {margin: 0; padding:0;}
+body{ font-size:12px; line-height:24px; font-family:"Microsoft YaHei",tahoma,arial,'Hiragino Sans GB','\5b8b\4f53',sans-serif; ;margin:0px; padding:0;}
+input,button{ font:12px/24px Arial, Helvetica,'微软雅黑', sans-serif; margin:0; padding:0; vertical-align: middle; font-weight:normal; *overflow: visible; line-height: normal; border: none; }
+
+/*.loginForm .login-text {*/
+/*!*width: 310px;*!*/
+/*font-size: 14px;*/
+/*line-height: 24px;*/
+/*!*height: 44px;*!*/
+/*padding: 12px 8px 12px 50px;*/
+/*border: 1px solid #ddd;*/
+/*}*/
+
+
+/*邮箱找回*/
+.fine-text {
+    width: 250px;
+    font-size: 14px;
+    line-height: 16px;
+    padding: 12px 8px 12px 50px;
+    border: 1px solid #ddd;
+}
+.b-unlogn .forget-password {
+    float:right;
+}
+.b-unlogn {
+    clear: both;
+}
+.loginForm .login-links .b-unlogn {
+    color: #666;
+    width: 100%;
+    margin-bottom: 20px;
+}
+.loginForm .login-links .b-unlogn .rem-pd {
+    float:left;
+}
+.loginForm .login-links .b-unlogn .for-pd {
+    float:right;
+}
+.loginForm .login-links {
+    margin-top: 9px;
+    overflow: hidden;
+    line-height: 14px;
+}
+.loginForm .login-links .rem-pd .remember-password {
+    color: black;
+}
+.login-box .use-ph a{
+    color: #0066ff;
+    margin-left: 10px;
+}
+#ph_protocol #pb_protocol{
+    color: #0066ff;
+}
+
+.ph-input-tip {
+    width:310px;
+    height:25px;
+    color: #e22;
+    font-size: 12px;
+    padding-top: 0;
+}
+#ph_name-error {
+    color: #e22;
+}
+.ph-select {
+    width: 310px;
+    height: 44px;
+    border: 1px solid #ddd;
+    color: #a9a6a6;
+    padding-left: 6px;
+}
+.use-enroll a {
+    color: #0066ff;
+}
+/*注册成功*/
+#register-success .ph-reg-suc {
+    width: 310px;
+    height: 200px;
+    position: relative;
+}
+#register-success .ph-reg-suc img {
+
+}
+#register-success .ph-reg-suc p {
+    margin-top:10px;
+}
+#register-success .ph-reg-success {
+    width: 50px;
+    height: 70px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+/*邮箱验证*/
+#JSP .pb-reg-suc {
+    width: 310px;
+    height: 200px;
+    position: relative;
+}
+#JSP .pb-reg-success {
+    width: 180px;
+    height: 10px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+#JSP .pb-reg-success p {
+    color: black;
+    margin-bottom: 0;
+    text-align: center;
+    line-height: 14px;
+    font-size: 12px;
+}
+/*邮箱激活成功*/
+#pb-success .pb-reg-suc {
+    width: 310px;
+    height: 200px;
+    position: relative;
+}
+#pb-success .pb-reg-suc img {
+
+}
+#pb-success .pb-reg-suc p {
+    margin-top:10px;
+}
+#pb-success .pb-reg-success {
+    width: 50px;
+    height: 70px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+/*找回密码页面*/
+.login-box .shell {
+    text-align:center;
+    margin: 40px auto;
+}
+
+.login-box .shell a {
+    color: #0066ff;
+}
+.login-box .pb-fine-input {
+    margin:50px auto;
+}
+.in-validation #ph_captcha {
+    width: 144px;
+}
+.J_StandardPwd #captcha {
+    width: 144px;
+    height: 18px;
+}
+
+.get-code .test-code {
+    width: 92px;
+    height: 44px;
+    border: 1px solid #ddd;
+    margin-left: 10px;
+    padding-left: 2px;
+    background: #f9bb2b;
+    color: #fff;
+}
+.login-title .find-mobile {
+    margin-bottom:28px;
+}
+#form_login .in-validation {
+    /*margin-top:20px;*/
+}
+#form_login .Jph-fine {
+    margin-top:44px;
+}
+.password-reset .password-reset-p {
+    text-align: center;
+    height: 56px;
+    background: #f2f2f2;
+    font-size: 18px;
+    color: #666;
+    line-height: 56px;
+}
+.password-reset-succeed .password-reset-p {
+    text-align: center;
+    height: 56px;
+    background: #f2f2f2;
+    font-size: 18px;
+    color: #666;
+    line-height: 56px;
+}
+.pb-password-reset-succeed .password-reset-p {
+    text-align: center;
+    height: 56px;
+    background: #f2f2f2;
+    font-size: 18px;
+    color: #666;
+    line-height: 56px;
+}
+/*邮箱重置*/
+#pb-JSP .pb-reg-suc {
+    width: 310px;
+    height: 200px;
+    position: relative;
+}
+#pb-JSP .pb-reg-success {
+    width: 192px;
+    height: 10px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+#pb-JSP .pb-reg-success p {
+    color: black;
+    margin-bottom: 0;
+    text-align: center;
+    line-height: 14px;
+    font-size: 12px;
+}
+
+#ph-resiger .loginForm .submit {
+    margin-top:0!important;
+}
+/*注册协议*/
+.protocol .agreement {
+    width: 1010px;
+    margin: 10px auto;
+}
+.protocol .agreement h1 {
+    font-size: 22px;
+    line-height: 22px;
+    text-align: center;
+    padding-top: 20px;
+    color: black;
+    font-weight: 600;
+}
+.agreement .agreement-main {
+    padding: 20px 20px;
+}
+.agreement-main p, .agreement-main h3 , .agreement-main h4{
+    margin-bottom: 10px;
+    color: #585858;
+    font-weight: normal;
+    line-height: 18px;
+}
